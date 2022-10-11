@@ -1,0 +1,17 @@
+% history                  
+  936  pip install python3
+  937  version python
+  938  python
+  939  conda activate dev
+  940  jupyter lab
+  941  conda activate dev
+  942  jupyter lab
+  943  cd desktop
+  944  cd Fintech_P2M2
+  945  git status
+  946  git add .
+  947  git commit -m"commit message"
+  948  jupyter lab
+  949  jupyter lab
+  950  cd desktop
+  951  ls
